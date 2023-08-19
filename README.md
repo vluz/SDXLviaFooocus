@@ -11,3 +11,8 @@ Follow intructions on notebook to run.
 Fooocus project: https://github.com/lllyasviel/Fooocus
 
 <br>
+
+Example use:      
+https://diode.zone/w/dpVfxAHDPcaACtQhNu8iW8
+
+<br>
