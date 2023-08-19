@@ -15,4 +15,12 @@ Fooocus project: https://github.com/lllyasviel/Fooocus
 Example use:      
 https://diode.zone/w/dpVfxAHDPcaACtQhNu8iW8
 
+<hr>
+
+Example output:     
+<img src="output_images/2023-08-19_15-02-57_3511.png">
+
+More examples in      
+https://github.com/vluz/SDXLviaFooocus/tree/main/output_images
+
 <br>
