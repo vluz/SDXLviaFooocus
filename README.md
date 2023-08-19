@@ -21,6 +21,7 @@ Example output:
 <img src="output_images/2023-08-19_15-02-57_3511.png">
 
 More examples in      
-https://github.com/vluz/SDXLviaFooocus/tree/main/output_images
+https://github.com/vluz/SDXLviaFooocus/tree/main/output_images     
+including the log from this run.
 
 <br>
