@@ -10,7 +10,7 @@ Follow intructions on notebook to run.
 
 Fooocus project: https://github.com/lllyasviel/Fooocus
 
-<br>
+<hr>
 
 Example use:      
 https://diode.zone/w/dpVfxAHDPcaACtQhNu8iW8
