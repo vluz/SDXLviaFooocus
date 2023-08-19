@@ -6,3 +6,8 @@ https://colab.research.google.com/github/vluz/SDXLviaFooocus/blob/main/SD-XL_via
 
 Follow intructions on notebook to run.
 
+<hr>
+
+Fooocus project: https://github.com/lllyasviel/Fooocus
+
+<br>
