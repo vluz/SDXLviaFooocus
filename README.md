@@ -1,11 +1,10 @@
 # SD-XL via Fooocus
 ### SD-XL Python notebook intended to be used in Google Collab, render.com, RunPod, etc.
 
-Updated with small fixes.      
-TODO: medvram instead of default maxvram
+Updated after main project changes.      
 
 Run on Collab by clicking on this link:      
-https://colab.research.google.com/github/vluz/SDXLviaFooocus/blob/main/SD_XL_via_Fooocus.ipynb
+https://colab.research.google.com/github/vluz/SDXLviaFooocus/blob/main/SD_XL_via_Fooocus_New.ipynb
 
 Follow intructions on notebook to run.
 
